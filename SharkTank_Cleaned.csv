@@ -1,0 +1,118 @@
+episode_number,pitch_number,brand_name,idea,deal,pitcher_ask_amount,ask_equity,ask_valuation,deal_amount,deal_equity,deal_valuation,ashneer_present,anupam_present,aman_present,namita_present,vineeta_present,peyush_present,ghazal_present,ashneer_deal,anupam_deal,aman_deal,namita_deal,vineeta_deal,peyush_deal,ghazal_deal,total_sharks_invested,amount_per_shark,equity_per_shark,Deal_Status,Industry
+1,1,BluePine Industries,Frozen Momos,1,50.0,5.0,1000.0,75.0,16.0,468.75,1,1,1,1,1,0,0,1,0,1,0,1,0,0,3,25.0,5.333333333,Deal,Food & Beverage
+1,2,Booz scooters,Renting e-bike for mobility in private spaces,1,40.0,15.0,266.67,40.0,50.0,80.0,1,1,1,1,1,0,0,1,0,0,0,1,0,0,2,20.0,25.0,Deal,Transportation
+1,3,Heart up my Sleeves,Detachable Sleeves,1,25.0,10.0,250.0,25.0,30.0,83.33,1,1,1,1,1,0,0,0,1,0,0,1,0,0,2,12.5,15.0,Deal,Other
+2,4,Tagz Foods,Healthy Potato Chips,1,70.0,1.0,7000.0,70.0,2.75,2545.45,1,1,1,1,1,0,0,1,0,0,0,0,0,0,1,70.0,2.75,Deal,Other
+2,5,Head and Heart,Brain Development Course,0,50.0,5.0,1000.0,0.0,0.0,0.0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Other
+2,6,Agro tourism,Tourism,0,50.0,5.0,1000.0,0.0,0.0,0.0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Travel & Tourism
+3,7,Qzense Labs,Food Freshness Detector,0,100.0,0.25,40000.0,0.0,0.0,0.0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Food & Beverage
+3,8,Peeschute,Disposable Urine Bag,1,75.0,4.0,1875.0,75.0,6.0,1250.0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1,75.0,6.0,Deal,Other
+3,9,NOCD,Energy Drink,1,50.0,2.0,2500.0,20.0,15.0,133.33,1,1,1,1,1,0,0,0,0,0,0,1,0,0,1,20.0,15.0,Deal,Food & Beverage
+4,10,Cosiq,Intelligent Skincare,1,50.0,7.5,666.67,50.0,25.0,200.0,1,1,1,1,1,0,0,0,1,0,0,1,0,0,2,25.0,12.5,Deal,Beauty & Personal Care
+4,11,JhaJi Achaar,Pickle,0,50.0,10.0,500.0,0.0,0.0,0.0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Food & Beverage
+4,12,Bummer,Underwear,1,75.0,4.0,1875.0,75.0,7.5,1000.0,1,1,1,1,1,0,0,0,0,1,1,0,0,0,2,37.5,3.75,Deal,Other
+5,13,Revamp Moto,E-Bike,1,100.0,1.0,10000.0,100.0,1.5,6666.67,1,1,1,1,1,0,0,0,1,1,0,0,0,0,2,50.0,0.75,Deal,Transportation
+5,14,Hungry Heads,Restaurant serving 80 types of Maggi,0,50.0,5.0,1000.0,0.0,0.0,0.0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Other
+5,15,Shrawani Engineers,Belly Button Shaper,0,10.0,20.0,50.0,0.0,0.0,0.0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Other
+6,16,Skippi Pops,Ice-Pops,1,45.0,5.0,900.0,100.0,15.0,666.67,1,1,1,1,1,0,0,1,1,1,1,1,0,0,5,20.0,3.0,Deal,Other
+6,17,Menstrupedia,Menstrual Awareness Comic,1,50.0,10.0,500.0,50.0,20.0,250.0,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,50.0,20.0,Deal,Other
+6,18,Hecolll,Pollution Resistant Fabric,0,100.0,1.0,10000.0,0.0,0.0,0.0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Other
+7,19,Raising Superstars,Child Development App,0,100.0,2.0,5000.0,100.0,4.0,2500.0,1,1,1,1,1,0,0,1,0,1,0,0,0,0,2,50.0,2.0,No Deal,Technology
+7,20,Torch-it,Gadgets for visually impaired people,1,75.0,1.0,7500.0,0.0,0.0,0.0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,Deal,Other
+7,21,La Kheer Deli,Kheer in variety of flavors,0,50.0,7.5,666.67,0.0,0.0,0.0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Other
+8,22,Beyond Snack,Kerala Banana Chips,1,50.0,2.5,2000.0,50.0,2.5,2000.0,1,1,1,1,0,1,0,1,0,1,0,0,0,0,2,25.0,1.25,Deal,Other
+8,23,Vivalyf Innovations- Easy Life,Prickless Diabetes Testing Machine,1,56.0,7.5,746.67,56.0,33.3,168.17,1,1,1,1,0,1,0,0,1,0,0,0,1,0,2,28.0,16.65,Deal,Other
+8,24,Motion Breeze,Smart Electric Motorcycle,1,30.0,3.0,1000.0,30.0,6.0,500.0,1,1,1,1,0,1,0,1,0,0,0,0,0,0,1,30.0,6.0,Deal,Other
+9,25,Altor,Smart Helmets,1,50.0,5.0,1000.0,50.0,7.0,714.29,1,1,1,1,0,1,0,0,0,1,1,0,0,0,2,25.0,3.5,Deal,Other
+9,26,Ariro,Wooden Toys,1,50.0,2.5,2000.0,50.0,10.0,500.0,1,1,1,1,0,1,0,0,0,1,0,0,1,0,2,25.0,5.0,Deal,Other
+9,27,Kabira Handmade,Healthy Oils,0,100.0,5.0,2000.0,0.0,0.0,0.0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Other
+10,28,Nuutjob,Male Intimate Hygiene,1,25.0,5.0,500.0,25.0,20.0,125.0,1,1,1,1,0,1,0,0,0,1,1,0,1,0,3,8.333333333,6.666666667,Deal,Other
+10,29,Meatyour,Eggs,1,30.0,5.0,600.0,30.0,20.0,150.0,1,1,1,1,0,1,0,0,1,1,0,0,1,0,3,10.0,6.666666667,Deal,Other
+10,30,EventBeep,Student Community App,1,30.0,2.0,1500.0,30.0,3.0,1000.0,1,1,1,1,0,1,0,1,0,1,0,0,1,0,3,10.0,1.0,Deal,Technology
+11,31,Gopal's 56,Fiber Ice Cream,0,30000.0,25.0,120000.0,0.0,0.0,0.0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Food & Beverage
+11,32,ARRCOAT Surface Textures,Wall Building,1,50.0,5.0,1000.0,50.0,15.0,333.33,1,1,1,1,0,1,0,0,1,0,0,0,0,0,1,50.0,15.0,Deal,Other
+11,33,Farda,Customised Streetwear,1,30.0,10.0,300.0,30.0,20.0,150.0,1,1,1,1,0,1,0,0,0,1,1,0,0,0,2,15.0,10.0,Deal,Other
+12,34,Auli Lifestyle,Ayurvedic Products,1,75.0,4.0,1875.0,75.0,15.0,500.0,1,1,1,1,0,1,0,0,0,0,1,0,0,0,1,75.0,15.0,Deal,Other
+12,35,SweeDesi,Indian Sweets,0,40.0,3.0,1333.33,0.0,0.0,0.0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Other
+12,36,LOKA,Metaverse App,1,40.0,5.0,800.0,40.0,24.0,166.67,1,1,1,1,0,1,0,0,1,1,0,0,1,0,3,13.33333333,8.0,Deal,Technology
+13,37,Annie,Braille Literary Device,1,30.0,5.0,600.0,105.0,3.0,3500.0,1,1,1,1,0,1,0,0,1,0,1,0,1,0,3,35.0,1.0,Deal,Other
+13,38,Caragreen,Eco-Friendly boxes,1,50.0,10.0,500.0,50.0,20.0,250.0,1,1,1,1,0,1,0,0,1,0,0,0,1,0,2,25.0,10.0,Deal,Other
+13,39,The Yarn Bazaar,Yarn-Trading App,1,50.0,2.0,2500.0,100.0,10.0,1000.0,1,1,1,1,0,1,0,1,1,1,0,0,1,0,4,25.0,2.5,Deal,Technology
+14,40,The Renal Project,Home Dialysis Treatment,1,100.0,3.0,3333.33,100.0,6.0,1666.67,1,1,1,1,0,1,0,0,0,1,1,0,0,0,2,50.0,3.0,Deal,Other
+14,41,Morikko Pure Foods,Healthy Food Snacks,0,100.0,3.0,3333.33,0.0,0.0,0.0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Food & Beverage
+14,42,Good Good Piggy Bank,Digital Piggy Bank,0,45.0,5.0,900.0,0.0,0.0,0.0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Technology
+15,43,Hammer Lifestyle,Smart Audio Products,1,30.0,3.0,1000.0,100.0,40.0,250.0,1,1,1,1,0,1,0,0,0,1,0,0,0,0,1,100.0,40.0,Deal,Other
+15,44,PNT,Robotics and Automation Solutions,1,50.0,4.0,1250.0,25.0,25.0,100.0,1,1,1,1,0,1,0,0,0,0,0,0,1,0,1,25.0,25.0,Deal,Other
+15,45,Cocofit,Coconut based beverage franchise,1,5.0,5.0,100.0,5e-05,5.0,0.0,1,1,1,1,0,1,0,0,1,1,1,0,0,0,3,1.67e-05,1.666666667,Deal,Food & Beverage
+16,46,Bamboo India,Bamboo Products,1,80.0,4.0,2000.0,50.0,3.5,1428.57,1,1,1,1,0,1,0,1,1,0,0,0,0,0,2,25.0,1.75,Deal,Other
+16,47,Flying Furr,Dog Hygiene,0,75.0,7.0,1071.43,0.0,0.0,0.0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Other
+16,48,Beyond Water,Liquid Water Enhancer,1,75.0,4.0,1875.0,75.0,15.0,500.0,1,1,1,1,0,1,0,0,0,1,1,0,0,0,2,37.5,7.5,Deal,Other
+16,49,Let's Try,Healthy Snacks,1,45.0,2.0,2250.0,45.0,12.0,375.0,1,1,1,1,0,1,0,0,1,1,0,0,0,0,2,22.5,6.0,Deal,Food & Beverage
+17,50,Find Your Kicks India,Sneaker Resale,1,50.0,10.0,500.0,50.0,25.0,200.0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,5,10.0,5.0,Deal,Other
+17,51,Aas Vidyalaya,EdTech App,1,150.0,3.0,5000.0,150.0,15.0,1000.0,1,1,1,1,0,1,0,1,0,0,1,0,1,0,3,50.0,5.0,Deal,Technology
+17,52,Outbox,Premium Surprise-Planning,0,50.0,5.0,1000.0,0.0,0.0,0.0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Other
+17,53,RoadBounce,Pothole Detection Software and Data,1,80.0,10.0,800.0,80.0,20.0,400.0,1,1,1,1,0,1,0,0,0,0,0,0,1,0,1,80.0,20.0,Deal,Technology
+18,54,Mommy's Kitchen,Thin Crust Pizza,0,90.0,3.0,3000.0,0.0,0.0,0.0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Other
+18,55,India Hemp and Co,Hemp Food Products,0,50.0,4.0,1250.0,0.0,0.0,0.0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Food & Beverage
+18,56,Otua,Electric Auto Vehicle,1,100.0,1.0,10000.0,1.0,1.0,100.0,1,1,1,1,0,1,0,1,0,0,0,0,0,0,1,1.0,1.0,Deal,Transportation
+18,57,Anthyesti,Funeral Service,0,50.0,2.5,2000.0,0.0,0.0,0.0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Other
+19,58,Ethik,Leather-free Shoes,0,15.0,5.0,300.0,0.0,0.0,0.0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Other
+19,59,WeSTOCK,Livestock health monitoring AI,1,50.0,5.0,1000.0,60.0,10.0,600.0,1,1,1,1,0,1,0,1,0,1,1,0,1,0,4,15.0,2.5,Deal,Other
+19,60,KetoIndia,Customised Keto Diets for various medical issues,0,125.0,1.25,10000.0,0.0,0.0,0.0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Other
+19,61,Magic lock,LPG Cylinder lock,0,120.0,8.0,1500.0,0.0,0.0,0.0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Other
+20,62,The State Plate,Delicacies,1,65.0,2.0,3250.0,40.0,3.0,1333.33,1,1,1,1,0,1,0,0,0,0,0,0,1,0,1,40.0,3.0,Deal,Other
+20,63,Bakarmax,Comics & Animation,0,35.0,5.0,700.0,0.0,0.0,0.0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Other
+20,64,IN A CAN,Can Cocktails,1,50.0,2.0,2500.0,100.0,10.0,1000.0,1,1,1,1,0,1,0,1,1,1,1,0,1,0,5,20.0,2.0,Deal,Other
+21,65,Get a Whey,Sugar-Free Icecream,1,100.0,8.0,1250.0,100.0,15.0,666.67,1,1,1,0,1,1,0,1,0,1,0,1,0,0,3,33.33333333,5.0,Deal,Other
+21,66,Sid07 Designs,Inventions,1,47.0,10.0,470.0,25.0,75.0,33.33,1,1,1,0,1,1,0,0,0,0,0,0,1,0,1,25.0,75.0,Deal,Other
+21,67,The Quirky Nari,Customised Apparels,1,35.0,5.0,700.0,35.0,24.0,145.83,1,1,1,0,1,1,0,0,1,0,0,1,0,0,2,17.5,12.0,Deal,Technology
+22,68,Hair Originals,Natural Hair Extensions,1,60.0,2.0,3000.0,60.0,4.0,1500.0,1,1,1,0,1,1,0,1,1,0,0,0,1,0,3,20.0,1.333333333,Deal,Beauty & Personal Care
+22,69,Poo de Cologne,Toilet Spray with Essential Oils,0,75.0,5.0,1500.0,0.0,0.0,0.0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Other
+22,70,Moonshine Meads,Meads,0,80.0,5.0,1600.0,0.0,0.0,0.0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Other
+22,71,Falhari,Fresh Fruits,0,50.0,2.0,2500.0,0.0,0.0,0.0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Other
+23,72,Namhya Foods,Ayurvedic Enriched Food,1,100.0,5.0,2000.0,50.0,10.0,500.0,1,1,1,0,1,1,0,0,0,1,0,0,0,0,1,50.0,10.0,Deal,Food & Beverage
+23,73,Urban Monkey,Streetwear,0,100.0,1.0,10000.0,0.0,0.0,0.0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Other
+23,74,Guardian Gears,Motorcycle Luggage,0,30.0,5.0,600.0,0.0,0.0,0.0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Other
+23,75,Modern Myth,Bags,0,75.0,5.0,1500.0,0.0,0.0,0.0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Other
+24,76,The Sass Bar,Gifts,1,40.0,8.0,500.0,50.0,35.0,142.86,0,1,0,1,1,1,1,0,1,0,0,0,0,1,2,25.0,17.5,Deal,Other
+24,77,KG Agrotech,Agricultural Innovations,1,30.0,10.0,300.0,10.0,40.0,25.0,0,1,0,1,1,1,1,0,0,0,0,0,1,0,1,10.0,40.0,Deal,Other
+24,78,Nuskha Kitchen,Homemade Foods,0,20.0,10.0,200.0,0.0,0.0,0.0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Food & Beverage
+25,79,PawsIndia,Dog Products,1,50.0,4.0,1250.0,50.0,15.0,333.33,0,1,0,1,1,1,1,0,1,0,0,0,0,0,1,50.0,15.0,Deal,Other
+25,80,Sunfox Technologies,Portable ECG Device,1,100.0,2.0,5000.0,100.0,6.0,1666.67,0,1,0,1,1,1,1,0,1,0,1,1,1,1,5,20.0,1.2,Deal,Other
+25,81,Alpino,Roasted Peanut Products,0,150.0,2.0,7500.0,0.0,0.0,0.0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Other
+26,82,Isak Fragrances,Perfumes,1,50.0,8.0,625.0,50.0,50.0,100.0,0,1,0,1,1,1,1,0,0,0,0,0,1,0,1,50.0,50.0,Deal,Other
+26,83,Julaa Automation,Automatic Cradle,0,50.0,10.0,500.0,0.0,0.0,0.0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Other
+26,84,Rare Planet,Handicrafts,1,65.0,1.0,6500.0,65.0,3.0,2166.67,0,1,0,1,1,1,1,0,0,0,1,0,0,0,1,65.0,3.0,Deal,Other
+27,85,Theka Coffee,Coffee Products,0,50.0,10.0,500.0,0.0,0.0,0.0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Food & Beverage
+27,86,Watt Technovations,Ventilated PPE Kits,1,0.00101,10.0,0.01,0.00101,4.0,0.03,0,1,0,1,1,1,1,0,1,0,1,0,1,1,4,0.0002525,1.0,Deal,Other
+27,87,Aliste Technologies,Automation Solutions,0,60.0,5.0,1200.0,0.0,0.0,0.0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Other
+27,88,Insurance Samadhan,Insurance Solutions,1,100.0,1.0,10000.0,100.0,4.0,2500.0,0,1,0,1,1,1,1,0,0,0,0,0,1,0,1,100.0,4.0,Deal,Other
+28,89,Humpy A2,Organic Milk Products,1,75.0,4.0,1875.0,100.0,15.0,666.67,0,1,0,1,1,1,1,0,0,0,0,1,1,1,3,33.33333333,5.0,Deal,Other
+28,90,Kunafa World,Kunafa,0,90.0,5.0,1800.0,0.0,0.0,0.0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Other
+28,91,Gold Safe Solutions Ind.,Anti-Suicidal Fan Rod,1,50.0,5.0,1000.0,50.0,30.0,166.67,0,1,0,1,1,1,1,0,0,0,0,1,1,1,3,16.66666667,10.0,Deal,Other
+29,92,Wakao Foods,Jackfruit Products,1,75.0,5.0,1500.0,75.0,21.0,357.14,0,1,0,1,1,1,1,0,0,0,1,1,0,1,3,25.0,7.0,Deal,Other
+29,93,PDD Falcon,Stainless Steel Items,0,75.0,3.0,2500.0,0.0,0.0,0.0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Other
+29,94,PlayBox TV,Streaming Platform,0,100.0,3.5,2857.14,0.0,0.0,0.0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Other
+30,95,Sippline Drinking Shields,Portable Glass Attachment,0,75.0,15.0,500.0,0.0,0.0,0.0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Other
+30,96,Kabaddi Adda,All-Kabaddi App,1,80.0,1.0,8000.0,80.0,6.0,1333.33,1,1,1,1,1,0,0,0,0,0,1,1,0,0,2,40.0,3.0,Deal,Technology
+30,97,Shades of Spring,Flowers,0,300.0,1.0,30000.0,0.0,0.0,0.0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Other
+30,98,Scholify,Scholarship Platform,0,50.0,7.5,666.67,0.0,0.0,0.0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Other
+31,99,Scrapshala,Handmade Reusable Scrap Materials,0,50.0,10.0,500.0,0.0,0.0,0.0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Other
+31,100,Sabjikothi,Vegetables Storage,0,60.0,2.5,2400.0,0.0,0.0,0.0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Other
+31,101,AyuRythm,Ayurvedic Wellness App,1,75.0,2.0,3750.0,75.0,2.68,2798.51,1,1,1,1,1,0,0,0,0,1,0,0,0,0,1,75.0,2.68,Deal,Technology
+31,102,Astrix,Smart Locks,0,75.0,3.0,2500.0,0.0,0.0,0.0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Other
+32,103,Thea and Sid,Proposal Solutions,0,80.0,7.0,1142.86,0.0,0.0,0.0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Other
+32,104,Experential Etc,Technology layered Advertisement Services,0,200.0,4.0,5000.0,0.0,0.0,0.0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Technology
+32,105,GrowFitter,Rewards App,1,50.0,1.0,5000.0,50.0,2.0,2500.0,1,1,1,1,0,1,0,0,0,1,0,0,0,0,1,50.0,2.0,Deal,Technology
+32,106,Med Tech,Portable opthalmic devices,0,35.0,6.0,583.33,0.0,0.0,0.0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Other
+33,107,Colour Me Mad,Insoles,1,40.0,10.0,400.0,40.0,25.0,160.0,1,1,1,1,0,1,0,0,0,0,1,0,0,0,1,40.0,25.0,Deal,Other
+33,108,Mavi's,Vegan Fermented Food,0,40.0,5.0,800.0,0.0,0.0,0.0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Food & Beverage
+33,109,Tweek Labs,Sportswear,1,40.0,2.0,2000.0,60.0,10.0,600.0,1,1,1,1,0,1,0,1,1,0,0,0,1,0,3,20.0,3.333333333,Deal,Other
+33,110,Proxgy,VR,1,35.0,1.0,3500.0,10.0,10.0,100.0,1,1,1,1,0,1,0,1,0,0,0,0,1,0,2,5.0,5.0,Deal,Other
+34,111,Nomad Food Project,Bacon Jams,1,40.0,10.0,400.0,40.0,20.0,200.0,1,1,1,1,1,1,1,1,0,0,1,1,0,1,4,10.0,5.0,Deal,Other
+34,112,Twee in One,Reversible and convertible clothing,0,30.0,7.5,400.0,0.0,0.0,0.0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Other
+34,113,Green Protein,Plant-Based Protein,0,60.0,2.0,3000.0,0.0,0.0,0.0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Other
+34,114,On2Cook,Fastest Cooking Device,0,100.0,1.0,10000.0,0.0,0.0,0.0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Other
+35,115,Jain Shikanji,Lemonade,1,40.0,8.0,500.0,40.0,30.0,133.33,1,1,1,1,1,1,1,1,1,1,0,1,0,0,4,10.0,7.5,Deal,Other
+35,116,Woloo,Washroom Finder,0,50.0,4.0,1250.0,0.0,0.0,0.0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Other
+35,117,Elcare India,Carenting for Elders,0,100.0,2.5,4000.0,0.0,0.0,0.0,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0.0,0.0,No Deal,Transportation
